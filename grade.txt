@@ -1,0 +1,4 @@
+Arun : 50
+
+kichu: 90
+arya: 95
