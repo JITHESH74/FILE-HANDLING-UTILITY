@@ -5,22 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>codetech</artifactId>
+    <artifactId>FILE-HANDLING-UTILITY</artifactId>
     <version>1.0-SNAPSHOT</version>
-<dependencies>
-    <dependency>
-        <groupId>org.apache.mahout</groupId>
-        <artifactId>mahout-core</artifactId>
-        <version>0.9</version>
-    </dependency>
-
-    <!-- https://mvnrepository.com/artifact/org.json/json -->
-    <dependency>
-        <groupId>org.json</groupId>
-        <artifactId>json</artifactId>
-        <version>20250107</version>
-    </dependency>
-</dependencies>
     <properties>
         <maven.compiler.source>23</maven.compiler.source>
         <maven.compiler.target>23</maven.compiler.target>
